@@ -2,6 +2,11 @@
   "name": "@stark-loader/vue",
   "version": "0.2.0",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starkinterface/stark-loader",
+    "directory": "packages/vue"
+  },
   "files": [
     "dist"
   ],
