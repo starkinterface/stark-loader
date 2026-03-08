@@ -16,6 +16,7 @@
     "@storybook/vue3-vite": "catalog:storybook",
     "@types/node": "catalog:",
     "@vitejs/plugin-vue": "catalog:",
+    "@vitejs/plugin-vue-jsx": "catalog:",
     "storybook": "catalog:storybook",
     "typescript": "catalog:",
     "vite": "catalog:",
