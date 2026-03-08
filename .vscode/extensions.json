@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    // Linting / Formatting
+    "oxc.oxc-vscode",
+    "editorconfig.editorconfig",
+
+    // Comments
+    "gruntfuggly.todo-tree"
+  ]
+}

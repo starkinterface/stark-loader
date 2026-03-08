@@ -1,0 +1,4 @@
+{
+  "extends": "@stark-loader/tsconfig/vue.json",
+  "include": ["src"]
+}

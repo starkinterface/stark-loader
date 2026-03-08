@@ -1,0 +1,24 @@
+{
+  "name": "@stark-loader/vue-storybook",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "storybook build",
+    "dev": "storybook dev -p 6006",
+    "typecheck": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@stark-loader/tsconfig": "workspace:*",
+    "@storybook/addon-a11y": "catalog:storybook",
+    "@storybook/vue3-vite": "catalog:storybook",
+    "@types/node": "catalog:",
+    "@vitejs/plugin-vue": "catalog:",
+    "storybook": "catalog:storybook",
+    "typescript": "catalog:",
+    "vite": "catalog:",
+    "vue": "catalog:"
+  }
+}

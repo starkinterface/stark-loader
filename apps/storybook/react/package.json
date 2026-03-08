@@ -1,0 +1,25 @@
+{
+  "name": "@stark-loader/react-storybook",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "storybook build",
+    "dev": "storybook dev -p 6002",
+    "typecheck": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@stark-loader/tsconfig": "workspace:*",
+    "@storybook/addon-a11y": "catalog:storybook",
+    "@storybook/react-vite": "catalog:storybook",
+    "@types/node": "catalog:",
+    "@vitejs/plugin-react": "catalog:",
+    "react": "catalog:",
+    "react-dom": "catalog:",
+    "storybook": "catalog:storybook",
+    "typescript": "catalog:",
+    "vite": "catalog:"
+  }
+}
