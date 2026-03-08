@@ -35,3 +35,6 @@ catalogs:
     storybook: ^10.2.16
 
 cleanupUnusedCatalogs: true
+
+onlyBuiltDependencies:
+  - esbuild
