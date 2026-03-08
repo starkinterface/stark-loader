@@ -30,6 +30,7 @@ export default defineConfig({
     vueJsx(),
     dts({
       entryRoot: "src",
+      exclude: ["**/*.stories.ts", "**/examples/**"],
       staticImport: true,
     }),
   ],

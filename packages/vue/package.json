@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "files": [
-    "dist",
-    "!dist/**/examples",
-    "!dist/**/*.stories.*"
+    "dist"
   ],
   "type": "module",
   "sideEffects": false,

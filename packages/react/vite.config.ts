@@ -29,6 +29,7 @@ export default defineConfig({
     react(),
     dts({
       entryRoot: "src",
+      exclude: ["**/*.stories.tsx", "**/examples/**"],
       staticImport: true,
     }),
   ],
