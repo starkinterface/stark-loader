@@ -43,12 +43,12 @@
     "packageManager": {
       "name": "pnpm",
       "version": ">=10.x",
-      "onFail": "error"
+      "onFail": "warn"
     },
     "runtime": {
       "name": "node",
       "version": ">=25.x",
-      "onFail": "error"
+      "onFail": "warn"
     }
   },
   "packageManager": "pnpm@10.30.3"
