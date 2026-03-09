@@ -9,6 +9,7 @@ const RingLoader = (props: RingLoaderProps) => (
     height="1em"
     viewBox="0 0 24 24"
     fill="none"
+    data-type="loader"
     data-loader="ring"
     {...props}
   >

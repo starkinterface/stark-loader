@@ -22,6 +22,7 @@ const GridLoader = defineComponent<GridLoaderProps>({
         height="1em"
         viewBox="0 0 24 24"
         fill="none"
+        data-type="loader"
         data-loader="grid"
         {...attrs}
       >
