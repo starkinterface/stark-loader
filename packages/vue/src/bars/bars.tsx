@@ -55,26 +55,26 @@ const BarsLoader = defineComponent<BarsLoaderProps>({
           `}
         </style>
         <rect
-          width="4"
-          height="12"
-          x="1"
-          y="6"
+          width={4}
+          height={12}
+          x={1}
+          y={6}
           fill="currentColor"
           class="stark-loader-bar stark-loader-bar-start"
         />
         <rect
-          width="4"
-          height="12"
-          x="10"
-          y="6"
+          width={4}
+          height={12}
+          x={10}
+          y={6}
           fill="currentColor"
           class="stark-loader-bar stark-loader-bar-middle"
         />
         <rect
-          width="4"
-          height="12"
-          x="19"
-          y="6"
+          width={4}
+          height={12}
+          x={19}
+          y={6}
           fill="currentColor"
           class="stark-loader-bar stark-loader-bar-end"
         />

@@ -67,15 +67,15 @@ const GridLoader = defineComponent<GridLoaderProps>({
           `}
         </style>
         <g class="stark-loader-grid">
-          <rect x="3" y="3" />
-          <rect x="10" y="3" />
-          <rect x="17" y="3" />
-          <rect x="3" y="10" />
-          <rect x="10" y="10" />
-          <rect x="17" y="10" />
-          <rect x="3" y="17" />
-          <rect x="10" y="17" />
-          <rect x="17" y="17" />
+          <rect x={3} y={3} />
+          <rect x={10} y={3} />
+          <rect x={17} y={3} />
+          <rect x={3} y={10} />
+          <rect x={10} y={10} />
+          <rect x={17} y={10} />
+          <rect x={3} y={17} />
+          <rect x={10} y={17} />
+          <rect x={17} y={17} />
         </g>
       </svg>
     )

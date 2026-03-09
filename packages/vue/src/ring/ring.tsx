@@ -44,18 +44,18 @@ const RingLoader = defineComponent<RingLoaderProps>({
         </style>
         <g class="stark-ring-loader">
           <circle
-            cx="12"
-            cy="12"
-            r="10"
+            cx={12}
+            cy={12}
+            r={10}
             stroke="currentColor"
-            stroke-opacity="0.24"
-            stroke-width="2"
+            stroke-opacity={0.24}
+            stroke-width={2}
             vector-effect="non-scaling-stroke"
           />
           <path
             d="M22 12A10 10 0 0 0 12 2"
             stroke="currentColor"
-            stroke-width="2"
+            stroke-width={2}
             vector-effect="non-scaling-stroke"
           />
         </g>
