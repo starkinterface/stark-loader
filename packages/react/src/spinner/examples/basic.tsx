@@ -1,4 +1,4 @@
-import { SpinnerLoader } from "@/index"
+import { SpinnerLoader } from "./../spinner"
 
 export default function Basic() {
   return (

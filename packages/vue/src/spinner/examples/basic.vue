@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-import { SpinnerLoader } from "@/index"
+import { SpinnerLoader } from "./../spinner"
 </script>

@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-import { RingLoader } from "@/index"
+import { RingLoader } from "./../ring"
 </script>

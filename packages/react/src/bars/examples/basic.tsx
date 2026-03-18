@@ -1,4 +1,4 @@
-import { BarsLoader } from "@/index"
+import { BarsLoader } from "./../bars"
 
 export default function Basic() {
   return (

@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-import { GridLoader } from "@/index"
+import { GridLoader } from "./../grid"
 </script>

@@ -33,10 +33,4 @@ export default defineConfig({
       staticImport: true,
     }),
   ],
-  resolve: {
-    alias: {
-      "#": root,
-      "@": resolve(root, "src"),
-    },
-  },
 })

@@ -1,4 +1,4 @@
-import { GridLoader } from "@/index"
+import { GridLoader } from "./../grid"
 
 export default function Basic() {
   return (

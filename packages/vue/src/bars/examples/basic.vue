@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-import { BarsLoader } from "@/index"
+import { BarsLoader } from "./../bars"
 </script>

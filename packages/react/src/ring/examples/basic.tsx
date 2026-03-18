@@ -1,4 +1,4 @@
-import { RingLoader } from "@/index"
+import { RingLoader } from "./../ring"
 
 export default function Basic() {
   return (
