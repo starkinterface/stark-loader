@@ -11,7 +11,7 @@ catalog:
   "@types/node": ^25.5.0
   "@types/react": ^19.2.14
   "@types/react-dom": ^19.2.3
-  "@vitejs/plugin-react": ^5.2.0
+  "@vitejs/plugin-react": ^6.0.1
   "@vitejs/plugin-vue": ^6.0.5
   "@vitejs/plugin-vue-jsx": ^5.1.5
   husky: ^9.1.7
@@ -21,18 +21,18 @@ catalog:
   react: ^19.2.4
   react-dom: ^19.2.4
   typescript: ^5.9.3
-  ultracite: ^7.3.1
-  vite: ^7.3.1
+  ultracite: ^7.3.2
+  vite: ^8.0.0
   vite-plugin-dts: ^4.5.4
   vue: ^3.5.30
   vue-tsc: ^3.2.6
 
 catalogs:
   storybook:
-    "@storybook/addon-a11y": ^10.2.19
-    "@storybook/react-vite": ^10.2.19
-    "@storybook/vue3-vite": ^10.2.19
-    storybook: ^10.2.19
+    "@storybook/addon-a11y": ^10.3.0
+    "@storybook/react-vite": ^10.3.0
+    "@storybook/vue3-vite": ^10.3.0
+    storybook: ^10.3.0
 
 cleanupUnusedCatalogs: true
 
